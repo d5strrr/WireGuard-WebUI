@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+body {
+        
+}
+
+.display-1 {
+    font-family: Comfortaa;
+    font-weight: 500;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.offcanvas-title {
+    
+}
+
+.container-sm {
+    font-family: Comfortaa;
+    font-weight: 300;
+    max-width: 600px;
+}
+
+.container-fluid {
+    font-family: Comfortaa;
+    font-weight: 300;
+    max-width: 1800px;
+}
+
+.form-floating {
+    margin-bottom: 2%;
+}
+
+.form-check {
+    margin-bottom: 2%;
+}
